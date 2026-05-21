@@ -42,5 +42,5 @@ Interactive business data analysis dashboard built using Pandas, NumPy, and Powe
 
 ## Contact
 
-LinkedIn: linkedin.com/in/markk-amgad  
-Email: markbotros52@gmail.com
+- [LinkedIn](https://linkedin.com/in/markk-amgad)
+- [Email](mailto:markbotros52@gmail.com)
