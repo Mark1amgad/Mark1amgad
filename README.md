@@ -32,7 +32,7 @@ Knowledge-based diagnostic system using rule-based inference to identify technic
 
 ---
 
-**[Search Algorithm Simulator](https://github.com/Mark1amgad/search-algorithm-simulator)**
+**[Search Algorithm Visualizer](https://github.com/Mark1amgad/search-algorithm-visualizer)**
 Visual simulator comparing BFS, DFS, UCS, and A* across configurable problem spaces. Built to illustrate algorithm behavior and performance tradeoffs.
 `Python` `Graph Search` `Algorithm Analysis`
 
